@@ -6,7 +6,7 @@ import unittest
 
 
 @pytest.mark.usefixtures("onetime_setup", "setup")
-class LoginTests(unittest.TestCase):
+class SearchTests(unittest.TestCase):
     @pytest.fixture(autouse=True)
     def class_setup(self):
         self.lp = GooglePage(self.driver)
@@ -30,3 +30,4 @@ class LoginTests(unittest.TestCase):
 
             tc_res = search_input in search_res
             assert True == tc_res
+
