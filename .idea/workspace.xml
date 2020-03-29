@@ -5,9 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../PSMI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configfiles/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/google_home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browser_drivers/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browser_drivers/geckodriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/RelayR/API_FrameWork/API_Check-master/API_Check-master/API_Check" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="test_login_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -103,13 +101,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582023091199" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1585209638465">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585465054553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585209638465" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585311620565">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585465054553" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585465030025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585311620565" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585465030025" />
   </component>
 </project>
