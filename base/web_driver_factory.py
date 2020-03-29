@@ -13,6 +13,9 @@ class WebDriverFactory:
         base_url = "https://www.google.de/"
 
         # browser driver path Firefox & Chrome
+        # 'chromedriver' works for the latest version of Chrome
+        # 'geckodriver' works from firefox version 57.0 to n/a as per the documentation in selenium.dev
+        # Firefox browser 60.0 used to test the code
         cur_work_dir = os.getcwd()
         browser_dir = os.path.join(cur_work_dir, 'browser_drivers')
         firefox_driver = os.path.join(browser_dir, 'geckodriver.exe')

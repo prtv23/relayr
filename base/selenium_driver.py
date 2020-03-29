@@ -98,8 +98,10 @@ class SeleniumDriver:
         if element is not None:
             self.log.info("Element Found")
             element.send_keys(value, Keys.ENTER)
+            return True
         else:
             self.log.info("Element not found")
+            return False
 
     def element_click(self, locator_type, locator):
 

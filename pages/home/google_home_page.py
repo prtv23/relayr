@@ -15,7 +15,7 @@ class GooglePage(SeleniumDriver):
         return self.is_element_present('name', self._google_search_field_name)
 
     def enter_data_into_search_field(self, search_param):
-        self.keyboard_enter('name', self._google_search_field_name, search_param)
+        return self.keyboard_enter('name', self._google_search_field_name, search_param)
 
     def fetch_all_links(self):
         return self.get_element('css', self._links_google_search_page)

@@ -5,7 +5,11 @@
       <change afterPath="$PROJECT_DIR$/../PSMI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browser_drivers/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browser_drivers/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/web_driver_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/web_driver_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/google_home_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +36,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/RelayR/API_FrameWork/API_Check-master/API_Check-master/API_Check" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="test_login_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_google_home_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Relayr" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page_tests/Home" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page_tests/home" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page_tests/Home/test_login_page.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_login_page" />
+        <item itemvalue="Python.test_google_home_page" />
       </list>
     </recent_temporary>
   </component>
@@ -77,14 +81,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582010060958">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585469615647">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582010060958" />
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585310696427">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585469615647" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585469524905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585310696427" />
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585469524905" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1582023091199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -19,7 +19,8 @@ class SearchTests(unittest.TestCase):
 
     @pytest.mark.run(order=2)
     def test_validate_search_text_enter(self):
-        self.lp.enter_data_into_search_field(Data.search_input)
+        tc_res = self.lp.enter_data_into_search_field(Data.search_input)
+        assert True == tc_res
 
     @pytest.mark.run(order=3)
     def test_validate_search_results(self):
