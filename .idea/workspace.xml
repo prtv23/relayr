@@ -5,11 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../PSMI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/web_driver_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/web_driver_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/google_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/google_home_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/page_tests/home/test_google_home_page.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/RelayR/API_FrameWork/API_Check-master/API_Check-master/API_Check" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -85,10 +81,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585469615647" />
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585469524905">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585475078492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585469524905" />
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585475078492" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1582023091199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -105,13 +101,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582023091199" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1585465054553">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585476217595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585465054553" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585465030025">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585476217595" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585470568483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585465030025" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585470568483" />
   </component>
 </project>
